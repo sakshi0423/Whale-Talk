@@ -26,7 +26,7 @@ int main() {
     // Print the resulting vector of vowels
     for (int i = 0; i < result.size(); i++) {
         std::cout << result[i];
-    }
+    } 
     std::cout << "\n";
 
     return 0;
